@@ -6,9 +6,10 @@ The challenges were so hard bruh.
 
 ---
 
-## 🔗 [Misc] mathclipse
+## 🔗 [Misc] mathclipse — Expert
 
-**Difficulty:** Expert
+> Where mathematics meets the abyss.
+> Logic is the seal. There is no escape.
 
 JSON-driven attribute swaps on `math`'s object graph, chained into a forced-crash primitive, a `GenericAlias.__args__` unwrap gadget, and a `FileFinder.path_hook` hijack for RCE.
 
