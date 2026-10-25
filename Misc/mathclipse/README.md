@@ -1,4 +1,4 @@
-# mathclipse — HITCON CTF 2026 (misc)
+# mathclipse
 
 A JSON payload lets you swap two pairs of values inside `math`'s attribute graph. The swaps run directly on the object graph before any output comes back, the task is to chain them into arbitrary code execution and read the flag.
 
