@@ -1,6 +1,6 @@
-# HITCON CTF 2026 
+# HITCON CTF 2026 — Writeups
 
-The challenges were so hard bruh.
+Writeups and solve scripts from HITCON CTF 2026.
 
 ![THEM?! — HITCON CTF 2026 scoreboard](assets/scoreboard.png)
 
@@ -8,9 +8,7 @@ The challenges were so hard bruh.
 
 ## 🔗 [Misc] mathclipse — Expert
 
-> Where mathematics meets the abyss.
-> Logic is the seal. There is no escape.
-
-JSON-driven attribute swaps on `math`'s object graph, chained into a forced-crash primitive, a `GenericAlias.__args__` unwrap gadget, and a `FileFinder.path_hook` hijack for RCE.
+Where mathematics meets the abyss.
+Logic is the seal. There is no escape.
 
 [→ Full writeup](Misc/mathclipse/)
