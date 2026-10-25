@@ -1,4 +1,4 @@
-# HITCON CTF 2026 — Writeups
+# HITCON CTF 2026 
 
 Writeups and solve scripts from HITCON CTF 2026.
 
