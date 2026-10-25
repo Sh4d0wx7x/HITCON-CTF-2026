@@ -4,8 +4,7 @@ A JSON payload lets you swap two pairs of values inside `math`'s attribute graph
 
 ## Attachment
 
-- `mathclipse-7c2aa0c80e529aa3.tar.gz` — the original challenge archive (`Dockerfile`, `docker-compose.yml`, `server.py`, `flag.txt`)
-
+-    - [`mathclipse-7c2aa0c80e529aa3.tar.gz`](attachments/mathclipse-7c2aa0c80e529aa3.tar.gz) — the original challenge archive ([`Dockerfile`](Dockerfile), [`docker-compose.yml`](docker-compose.yml), [`server.py`](src/deploy/server.py), [`flag.txt`](src/deploy/flag.txt))
 ```python
 import json
 import math
@@ -134,7 +133,7 @@ Both swaps in the first pair have to land clean — if either targets a tuple, I
 
 ## stage 7 — retrieving the flag
 
-By connecting to `nc mathclipse.chal.hitconctf.com 16767` and running `solver.py`, I got:
+By connecting to `nc mathclipse.chal.hitconctf.com 16767` and running [`solver.py`](solver.py), I got:
 
 ```
 $ python solver.py
