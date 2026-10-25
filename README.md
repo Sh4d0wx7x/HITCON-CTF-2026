@@ -1,6 +1,6 @@
 # HITCON CTF 2026 
 
-The challenges were so hard bruh
+The challenges were so hard bruh.
 
 ![THEM?! — HITCON CTF 2026 scoreboard](assets/scoreboard.png)
 
