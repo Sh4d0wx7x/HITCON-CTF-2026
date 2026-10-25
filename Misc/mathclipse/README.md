@@ -4,7 +4,7 @@ A JSON payload lets you swap two pairs of values inside `math`'s attribute graph
 
 ## Attachment
 
-- [`mathclipse-7c2aa0c80e529aa3.tar.gz`](attachments/mathclipse-7c2aa0c80e529aa3.tar.gz) — the original challenge archive ([`Dockerfile`](Dockerfile), [`docker-compose.yml`](docker-compose.yml), [`server.py`](src/deploy/server.py), [`flag.txt`](src/deploy/flag.txt))
+- [mathclipse-7c2aa0c80e529aa3.tar.gz](attachments/mathclipse-7c2aa0c80e529aa3.tar.gz) 
 ```python
 import json
 import math
