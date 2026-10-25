@@ -134,7 +134,7 @@ Both swaps in the first pair have to land clean — if either targets a tuple, I
 
 ## stage 7 — retrieving the flag
 
-By connecting to `nc mathclipse.chal.hitconctf.com 16767` and running `solve``r``.py`, I got:
+By connecting to `nc mathclipse.chal.hitconctf.com 16767` and running `solver.py`, I got:
 
 ```
 $ python solver.py
